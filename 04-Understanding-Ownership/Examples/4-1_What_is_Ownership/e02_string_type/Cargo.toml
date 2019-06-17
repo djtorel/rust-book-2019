@@ -1,0 +1,7 @@
+[package]
+name = "e02_string_type"
+version = "0.1.0"
+authors = ["Dominic Torruellas <dom@domtorr.com>"]
+edition = "2018"
+
+[dependencies]
