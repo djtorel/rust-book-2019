@@ -1,6 +1,6 @@
 fn main() {
     let days = [
-        "first", "second", "third", "fourth", "fifth", "sixth", "seventh", "eigth", "ninth",
+        "first", "second", "third", "fourth", "fifth", "sixth", "seventh", "eighth", "ninth",
         "tenth", "eleventh", "twelfth",
     ];
     let items = [
