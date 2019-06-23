@@ -1,0 +1,7 @@
+[package]
+name = "e09_used_in_main"
+version = "0.1.0"
+authors = ["Dominic Torruellas <dom@domtorr.com>"]
+edition = "2018"
+
+[dependencies]
