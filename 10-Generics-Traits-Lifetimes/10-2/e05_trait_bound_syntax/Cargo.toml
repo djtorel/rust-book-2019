@@ -1,0 +1,16 @@
+[package]
+name = "e05_trait_bound_syntax"
+version = "0.1.0"
+authors = ["Dominic Torruellas <dom@domtorr.com>"]
+edition = "2018"
+
+[lib]
+name = "aggregator"
+path = "src/lib.rs"
+
+[[bin]]
+name = "aggregator"
+path = "src/main.rs"
+
+
+[dependencies]
