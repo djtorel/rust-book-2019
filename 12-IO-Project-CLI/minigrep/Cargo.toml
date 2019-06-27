@@ -1,0 +1,11 @@
+[package]
+name = "minigrep"
+version = "0.1.0"
+authors = ["Dominic Torruellas <dom@domtorr.com>"]
+edition = "2018"
+
+[lib]
+name="minigrep"
+path="src/lib.rs"
+
+[dependencies]
